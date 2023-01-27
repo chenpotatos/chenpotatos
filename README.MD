@@ -1,11 +1,1 @@
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=chenpotatos&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=chenpotatos&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=chenpotatos&show_icons=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=yusancky&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&include_all_commits=true&hide_border=true" align="right" width="300" />
