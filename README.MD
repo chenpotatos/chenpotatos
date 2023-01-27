@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=yusancky&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&include_all_commits=true&hide_border=true" align="right" width="300" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusancky&theme=nord_bright" align="right" width="450" />
