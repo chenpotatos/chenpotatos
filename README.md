@@ -1,3 +1,6 @@
+> [!WARNING]
+> 因为个人学业原因，所有项目暂停维护，具体继续更新时间待定，请关注本页面，感谢理解。
+
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 ## 🔧 Technologies & Tools
