@@ -5,6 +5,8 @@
 > 
 > Due to personal problems,updates in all repos stop until 01/01/2027.
 
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -41,3 +43,18 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+
+
+
+
+**当前心理压力：167 （偏大）**   
+
+*Source:Visual Code Studio 心理计算插件*  
+
+*Last Push:2026/02/28 22:45 Github Action Bot*
+
+*Comment:好好休息呀，早点睡觉凹~*
+
+
+
