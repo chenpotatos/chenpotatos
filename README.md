@@ -39,6 +39,12 @@
 </a>    
 
 
+
+<p align="center">
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=chenpotatos&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -47,14 +53,6 @@
 
 
 
-
-**当前心理压力：167 （偏大）**   
-
-*Source:Visual Code Studio 心理计算插件*  
-
-*Last Push:2026/02/28 22:45 Github Action Bot*
-
-*Comment:好好休息呀，早点睡觉凹~*
 
 
 
