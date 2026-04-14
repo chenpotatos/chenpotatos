@@ -3,7 +3,7 @@
 > [!WARNING]
 > 因为个人学业原因，所有项目暂停维护，预计2026/07/01后继续更新，感谢理解。
 > 
-> Due to personal problems,updates in all repos stop until 01/01/2027.
+> Due to personal problems,updates in all repos stop until 01/07/2026.
 
 
 
