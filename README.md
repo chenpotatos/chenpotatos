@@ -1,9 +1,9 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 > [!WARNING]
-> 因为个人学业原因，所有项目暂停维护，预计2026/07/01后继续更新，感谢理解。
+> 自2026/04/16起至07/01仅更新部分仓库，维持最低限度更新和issue处理
 > 
-> Due to personal problems,updates in all repos stop until 01/07/2026.
+> From 16/04/2026 to 01/07 only update some repos,maintaing lowest update and issue dealing.
 
 
 
